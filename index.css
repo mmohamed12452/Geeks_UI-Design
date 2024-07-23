@@ -23,3 +23,38 @@
     pointer-events: none;
     color: #aaa;
 }
+.second-section
+{
+   padding-left:300px;
+   padding-top:100px;
+   height:450px;
+   width:100%;
+   background-color:rgba(5, 162, 235, 0.5);
+}
+.hands
+{
+    padding-left:-10px !important;
+    font-size:2em;
+}
+
+#buttons
+{
+    background-color: lightgreen;
+    border:none;
+    margin-left:-10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius:5px;
+    height:40px;
+}
+#teacher
+{
+    background-color: white;
+    border:none;
+    color:
+    margin-left:-10px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius:5px;
+    height:40px;
+}
