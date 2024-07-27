@@ -2,6 +2,7 @@
 {
     margin:0px;
     padding:0px;
+    box-sizing: border-box;
 }
 .container-fluid img
 {
@@ -25,12 +26,10 @@
 }
 .second-section
 {
-   padding-left:300px;
-   padding-top:100px;
-   height:450px;
    width:100%;
-   background-color:rgba(5, 162, 235, 0.5);
+   background-color:rgb(104, 104, 240);
 }
+
 .hands
 {
     padding-left:-10px !important;
@@ -56,4 +55,115 @@
     padding-right:20px;
     border-radius:5px;
     height:40px;
+}
+.begeeks
+{
+    padding-left: 300px;
+    padding-top:67px;
+}
+.rectangle
+{
+    width:100%;
+    height:90px;
+}
+.circle
+{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color:palegoldenrod;
+}
+.card
+{
+    width:23%;
+    height:100vh;
+    background-color: white;
+}
+.react-images
+{
+    height:45%;
+}
+.react-images img
+{
+    width:100%;
+    height:100%;
+    border-radius:5px 5px 0px 0px;
+}
+.font-text
+{
+    height:45%;
+    font-weight: bold;
+}
+.morris-mccoy-square img
+{
+    width:100%;
+    height:100%;
+    border-radius:100%;
+}
+.morris-mccoy-square
+{
+    height:20px;
+    width:20px;
+    background-color:lightcoral;
+    border-radius: 50%;
+    margin-left:22px;
+}
+
+.morry
+{
+    margin-left:50px;
+    margin-top:-23px;
+}
+
+.hours
+{
+    padding-left:23px;
+    margin-top:-24px;
+}
+.icones
+{
+    padding-left:90px;
+    margin-top:-42px;
+}
+.beginers
+{
+    padding-left:30px;
+    margin-top:-24px;
+    font-weight: normal;
+}
+.stars
+{
+    color:gold;
+}
+.rating
+{
+    padding-left:122px;
+    margin-top:-24px;
+}
+.overview
+{
+    color:#aaa;
+    padding-left:150px;
+    margin-top:-40px;
+}
+hr
+{
+    width:100%;
+    margin-top:-20px !important;
+    background-color:grey !important;
+}
+.bookmarkers
+{
+    margin-left:296px !important;
+    margin-top:-40px !important;
+}
+.third-section
+{
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.my-card-footer
+{
+    height:10%;
 }
